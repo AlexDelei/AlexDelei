@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexDelei
 - 👀 I’m interested in programming and creating softwares
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C , python
 - 💞️ I’m looking to collaborate on C-based projects
 - 📫 How to reach me AlexDelei/AlexDelei
 
