@@ -26,8 +26,7 @@ undertaking a Bachelor's Degree in Sofware Engineering :technologist:</p>
 - X (twitter) spaces
 - music(pop / hip-hop)
 
-
-![AlexDelei's Stats](https://github-readme-stats.vercel.app/api?username=AlexDelei&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  ![AlexDelei's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDelei&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)  ![AlexDelei's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexDelei&theme=vue-dark&hide_border=true)
+![AlexDelei's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDelei&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)  ![AlexDelei's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexDelei&theme=vue-dark&hide_border=true)
 <!---
 AlexDelei/AlexDelei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
