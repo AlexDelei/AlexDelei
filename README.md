@@ -12,7 +12,7 @@ undertaking a Bachelor's Degree in Sofware Engineering</p>
 
 #### Achievements (personal projects)
 - Built an ecommerce website
-- Built a Blog WebApp
+- Built a Blog WebApp ([chekout repo](https://github.com/AlexDelei/BlogApp))
 
 
 
