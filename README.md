@@ -1,6 +1,6 @@
 #### <center>Hi there :wave:! My name is Alex Delei</center>
 
-<p>Currently I am a student at ALX software engineering programm :student: and a student at Kirinyaga University
+<p>Currently I am a student at ALX software engineering programm :student: and 
 undertaking a Bachelor's Degree in Sofware Engineering :technologist:</p>
 
 ##### My Objectives
