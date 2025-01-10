@@ -15,6 +15,7 @@ undertaking a Bachelor's Degree in Sofware Engineering :technologist:</p>
 #### Achievements (personal projects)
 - Built an ecommerce website ([checkout repo](https://github.com/AlexDelei/Web01_2023))
 - Built a Blog WebApp ([chekout repo](https://github.com/AlexDelei/BlogApp))
+- Built an Entertainment multiplatform webApp. (still working on it)
 
 #### Hobbies
 - Bike riding
